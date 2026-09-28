@@ -228,8 +228,8 @@
 		"NomaiStaffItem": "Nomaiステッキ",
 		"NomaiStaffItem_PlaceWall": "壁を作る",
 		"NomaiStaffItem_RemoveWall": "壁を消す",
-		"NomaiMaskItem": "マスクの原型",
-		"NomaiOrbItem": "大きいNomaiのオーブ",
+		"NomaiMaskItem": "マスクのプロトタイプ",
+		"NomaiOrbItem": "Nomaiの大オーブ",
 		"ActivateStatuePrompt": "彫像を起動する",
 		"DeactivateStatuePrompt": "彫像を停止する",
 		"NeedStaffStatuePrompt": "必要なツールが不足しています",
@@ -248,13 +248,13 @@
 		"GITM_STATUE_SS_UPPER": "<color=orange>太陽ステーション</color>上部の記憶の像",
 		"GITM_STATUE_SS_LOWER": "<color=orange>太陽ステーション</color>下部の記憶の像",
 		"GITM_STATUE_PLAYER": "<color=lightblue>木の炉辺</color>の記憶の像",
-		"TerribleFateGameOver": "With your statue deactivated, your control over fate is forfeit.\nThe universe remains in stasis for all eternity, unable to live, unable to die.",
+		"TerribleFateGameOver": "あなたの彫像が停止したため、あなたの運命に抗う力は失われました。\n宇宙は永遠に囚われ続け、もはや生きることも死ぬこともできません。",
 		"GoodEndingGameOver": "Ghost in the Machine",
-		"GITM_ERNESTO_GAME_OVER": "Ernesto beat you to death with a rock.\nHe did warn you.",
-		"GITM_ADDON_POPUP": "Ghost in the Machine is intended to be played standalone. Please disable other story mods before playing it, if any are enabled.",
-		"debugMode": "Debug Mode",
-		"debugModeTooltip": "Enable mod-specific debugging tools",
-		"MaskUnresponsiveNotification": "INSUFFICIENT POWER FOR SYSTEM REBOOT"
+		"GITM_ERNESTO_GAME_OVER": "Ernestoは石であなたをなぐり殺しました。\n彼はあなたに警告しました。",
+		"GITM_ADDON_POPUP": "Ghost in the Machineは単独でプレイすることを想定しています。もし他のストーリーMODが有効になっているなら、プレイ前に無効化してください。",
+		"debugMode": "デバッグモード",
+		"debugModeTooltip": "MOD固有のデバッグツールを有効化",
+		"MaskUnresponsiveNotification": "システム再起動に必要なエネルギーが不足しています"
 	},
 	"AchievementTranslations": {
 		"GITM_AN_ORB_TOO_LARGE": {
