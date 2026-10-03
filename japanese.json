@@ -217,11 +217,11 @@
 		"GITM_ERNESTO_REFUSE_AGAIN_1": "オーケー。いいね、最高。&lt;i&gt;&lt;/i&gt;",
 		"GITM_ERNESTO_REFUSE_AGAIN_2": "石を探してくるよ。&lt;i&gt;&lt;/i&gt;",
 		"GITM_DEV_THANKS_NAME": "Hawkbar",
-		"GITM_DEV_THANKS_1": "Hello, player! Thank you for playing Ghost in the Machine! Myself and Insmoshable created it in 2 weeks for the 6th Outer Wilds community Mod Jam. I hope you enjoyed it.",
-		"GITM_DEV_THANKS_2": "This is the end of the mod's content, for now. There's a final farewell message from Lami in the ship log waiting for you, and a secret Ernesto easter egg, if you haven't found it already.",
-		"GITM_DEV_THANKS_3": "We did not make any changes or additions to the original game's ending sequence, so please do not redo the base game ending unless you just really want to see the vanilla ending again.",
-		"GITM_DEV_THANKS_4": "The loop is back to its full 22-minute length, but we're leaving a fully functional Nomai staff here, so feel free to take it and revisit the original game's locations with your new abilities if you like.",
-		"GITM_DEV_THANKS_5": "Thank you again for playing!"
+		"GITM_DEV_THANKS_1": "プレイヤーの皆さん、こんにちは！Ghost in the Machineをプレイしていただきありがとうございます！私とInsmoshableは第6回Outer WildsコミュニティMODジャムのため、2週間でこのMODを制作しました。楽しんでいただけたなら幸いです。&lt;i&gt;&lt;/i&gt;",
+		"GITM_DEV_THANKS_2": "今のところ、これでMODの内容は終了です。航行記録にはLamiからの最後のお別れのメッセージがあります。それから、もしまだ見つけていなければ、Ernestoの秘密のイースターエッグもあります。&lt;i&gt;&lt;/i&gt;",
+		"GITM_DEV_THANKS_3": "私たちは元のゲームのエンディングには何の変更も追加もしてないので、単に元のゲームのエンディングをまた見たい場合を除き、エンディングへ向かう必要はありません。&lt;i&gt;&lt;/i&gt;",
+		"GITM_DEV_THANKS_4": "ループの長さは元の22分に戻りましたが、完全に機能するNomaiステッキをここに置いておきますので、どうぞご自由に持っていって、この新しい能力を使って元のゲームの色々な場所を再訪してみてください。&lt;i&gt;&lt;/i&gt;",
+		"GITM_DEV_THANKS_5": "改めて、プレイしていただきありがとうございました！&lt;i&gt;&lt;/i&gt;"
 	},
 	"UIDictionary": {
 		"GITM_GHOST": "Unknown",
