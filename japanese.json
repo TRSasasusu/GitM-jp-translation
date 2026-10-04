@@ -224,7 +224,7 @@
 		"GITM_DEV_THANKS_5": "改めて、プレイしていただきありがとうございました！&lt;i&gt;&lt;/i&gt;"
 	},
 	"UIDictionary": {
-		"GITM_GHOST": "Unknown",
+		"GITM_GHOST": "不明",
 		"NomaiStaffItem": "Nomaiステッキ",
 		"NomaiStaffItem_PlaceWall": "壁を作る",
 		"NomaiStaffItem_RemoveWall": "壁を消す",
