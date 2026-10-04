@@ -112,10 +112,10 @@
 		"GITM_PLAYER_STEP_7_REVEAL": "この島にはNomaiの変な彫像がたくさんある！これも険しい顔立ちに見える。ここにはNomaiのステッキが転がってるが、これで突っつくとどうなるかすごく気になってきた…"
 	},
 	"DialogueDictionary": {
-		"GITM_MASK_COMPUTER_1": "<TimeMinutes>分 <TimeSeconds>前:以前のサイクルからの受信データ。<color=red>エラー！ システムが過負荷状態です。サイクル期間が想定より短くなりました。</color>&lt;i&gt;&lt;/i&gt;",
+		"GITM_MASK_COMPUTER_1": "<TimeMinutes>分 <TimeSeconds>秒前:以前のサイクルからの受信データ。<color=red>エラー！ システムが過負荷状態です。サイクル期間が想定より短くなりました。</color>&lt;i&gt;&lt;/i&gt;",
 		"GITM_MASK_COMPUTER_2": "仮面が受信しているデータの送信元:\n<ActiveStatueList><color=red>エラー！ システムが過負荷状態です。データストリームが予期せず重複する可能性があります。</color>&lt;i&gt;&lt;/i&gt;",
 		"GITM_MASK_COMPUTER_3": "サイクル終了の伝達まで<TimeMinutesRemaining>分&lt;i&gt;&lt;/i&gt;",
-		"GITM_MASK_COMPUTER_FIXED_1": "<TimeMinutes>分 <TimeSeconds>前:以前のサイクルからの受信データ。&lt;i&gt;&lt;/i&gt;",
+		"GITM_MASK_COMPUTER_FIXED_1": "<TimeMinutes>分 <TimeSeconds>秒前:以前のサイクルからの受信データ。&lt;i&gt;&lt;/i&gt;",
 		"GITM_MASK_COMPUTER_FIXED_2": "仮面が受信しているデータの送信元:\n<ActiveStatueList>&lt;i&gt;&lt;/i&gt;",
 		"GITM_OPC_LAUNCHES_1": "<color=lightblue>灰の双子星</color>から以前の発射データを回収。&lt;i&gt;&lt;/i&gt;",
 		"GITM_OPC_LAUNCHES_2": "エラー:<color=lightblue>灰の双子星</color>からの応答がありません。発射履歴を取得できません。&lt;i&gt;&lt;/i&gt;",
